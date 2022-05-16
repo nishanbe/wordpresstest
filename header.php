@@ -31,7 +31,7 @@
 		?>
 
 		<header id="site-header" class="header-footer-group">
-<h1>NISHAN</h1>
+<h1>NISHAN B</h1>
 			<div class="header-inner section-inner">
 
 				<div class="header-titles-wrapper">
